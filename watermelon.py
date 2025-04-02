@@ -5,4 +5,4 @@ if w ==2:
 elif w % 2 == 0:
     print("YES")
 else:
-    print("NO")
+    print("tonmoy")
